@@ -1,3 +1,12 @@
+/**
+ * Project: Lab 3 Java MySQL MongoDB CRUD
+ * Purpose Details: Demonstrate CRUD operations in MySQL and MongoDB
+ * Course: IST242
+ * Author: Avery Timm
+ * Date Developed: 06/07/2026
+ * Last Date Changed: 06/07/2026
+ * Rev: 1.0
+ */
 import com.mongodb.client.*;
 import com.mongodb.client.model.Filters;
 import com.mongodb.client.model.Updates;
